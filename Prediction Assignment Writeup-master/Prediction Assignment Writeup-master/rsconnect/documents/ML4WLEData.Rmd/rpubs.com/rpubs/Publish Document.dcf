@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+bundleId:
+        https://api.rpubs.com/api/v1/document/148636/19265ac70b114d0784d687e09c5dd1c8
+url: http://rpubs.com/dandybits/148636
+when: 1454258560.82728
